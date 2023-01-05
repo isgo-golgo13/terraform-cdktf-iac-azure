@@ -1,2 +1,2 @@
-# terraform-cdk-iac-azure
-Terraform CDK (Go, Node.js) IaC for Azure
+# Terraform CDK IaC Modules for Azure
+Terraform CDK (Go, Node.js) IaC Modules for Azure
